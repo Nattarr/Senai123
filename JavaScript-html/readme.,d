@@ -1,0 +1,6 @@
+
+git add .
+git config user.email "email"
+git comit -m "text"
+git push
+git graph -> ele rastreia meu repositorio(log)
